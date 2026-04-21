@@ -23,4 +23,4 @@ Retrieved from: https://github.com/Lanbig/CSC465-visualization-project/blob/mast
 If you download the cleaned dataset (`customer_segmentation_after_preprocessing.csv`) from the `clean dataset` folder, you only need to run script 4.
 
 ## Report
-A PDF version of the report can also be viewed directly: Household Customer Segmentation Report.pdf
+A complete PDF version of the report can also be viewed directly: Household Customer Segmentation Report.pdf

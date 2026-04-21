@@ -16,8 +16,8 @@ Retrieved from: https://github.com/Lanbig/CSC465-visualization-project/blob/mast
 
 ## Steps to Run the Project
 1. Download all 8 CSV files (2019–2023) from the `raw datasets` folder.  
-2. Download all the `.ipynb` scripts from the `script` folder.  
-3. Open the scripts in Jupyter Notebook and update the dataset file paths.  
+2. Download all the `.ipynb` files from the `scripts` folder.  
+3. Open all scripts in Jupyter Notebook and update the dataset file paths.  
 4. Run the scripts in order from 1 to 4.  
 
 If you download the cleaned dataset (`customer_segmentation_after_preprocessing.csv`) from the `clean dataset` folder, you only need to run script 4.
